@@ -1,0 +1,19 @@
+[
+    {
+        "file": "D:/Onedrive/2025_09_GR4Py/ref/src/airGR.c",
+        "file_last_write": 1758263463.0,
+        "definitions": [
+            {
+                "usr": "c:@F@R_init_airGR",
+                "kind": 6,
+                "parent_name": "",
+                "name": "R_init_airGR(int *)",
+                "file": "D:/Onedrive/2025_09_GR4Py/ref/src/airGR.c",
+                "line": 33,
+                "column": 6,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

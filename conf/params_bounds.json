@@ -1,0 +1,22 @@
+{
+    "GR4H": {
+        "param_names":  ["X1", "X2", "X3", "X4"],
+        "lower_bounds": [0, -1, 0, 12],
+        "upper_bounds": [2000, 1, 1000, 120]
+    },
+    "GR4J": {
+        "param_names":  ["X1", "X2", "X3", "X4"],
+        "lower_bounds": [0, -7, 0, 0],
+        "upper_bounds": [2000, 7, 400, 4]
+    },
+    "GR6J": {
+        "param_names":  ["X1", "X2", "X3", "X4", "X5", "X6"],
+        "lower_bounds": [0, -7, 0, 0, 0, 0],
+        "upper_bounds": [2000, 7, 400, 4, 1, 200]
+    },
+    "GR2M":{
+        "param_names":  ["X1", "X2"],
+        "lower_bounds": [100, 0],
+        "upper_bounds": [1500, 2]
+    }
+}
